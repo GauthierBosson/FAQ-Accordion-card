@@ -206,8 +206,9 @@ a {
   .faq {
     flex-direction: column;
     align-items: center;
-    min-height: 610px;
+    min-height: 585px;
     max-width: 90%;
+    margin-top: 10rem;
   }
 
   .faq__title {
@@ -219,7 +220,7 @@ a {
     flex-direction: column;
     flex-basis: 100%;
     align-items: center;
-    padding: 15rem 3rem 3rem 3rem;
+    padding: 13rem 3rem 3rem 3rem;
     margin: 0;
   }
 
@@ -243,7 +244,7 @@ a {
   .faq__images--woman-mobile {
     display: block;
     position: absolute;
-    left: 50%;
+    left: 45%;
     top: -107px;
     transform: translateX(-50%);
   }
@@ -251,7 +252,7 @@ a {
   .faq__images--pattern-mobile {
     display: block;
     position: absolute;
-    left: 53%;
+    left: 49%;
     top: 10px;
     transform: translateX(-50%);
   }
