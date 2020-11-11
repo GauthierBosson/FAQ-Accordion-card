@@ -210,6 +210,10 @@ a {
     max-width: 90%;
   }
 
+  .faq__title {
+    text-align: center;
+  }
+
   .faq__questions-container {
     display: flex;
     flex-direction: column;
